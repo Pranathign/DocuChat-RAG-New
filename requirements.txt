@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+faiss-cpu
+PyPDF2
+requests
+streamlit_chat
+streamlit_extras
